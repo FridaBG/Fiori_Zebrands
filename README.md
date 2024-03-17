@@ -48,6 +48,8 @@
 
 Web application that allows [Zebrands](http://zebrands.mx/) to analyze the metrics obtained in each sprint, address end-of-sprint questions and propose suggestions for improvement in order to have a more efficient retrospective process, seeking to improve individual and team performance for future sprints.
 
+[Final Presentation](https://www.canva.com/design/DAFhx2TAabI/iVZ4ZBFTPb9qeEEWHDy-jA/edit?utm_content=DAFhx2TAabI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <!-- ## :sparkles: Features
 
 :heavy_check_mark: Feature 1;\
